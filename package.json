@@ -1,0 +1,23 @@
+{
+  "name": "open-source-spider",
+  "version": "1.0.0",
+  "description": "a nodejs spider",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indes.js"
+  },
+  "keywords": [
+    "nodejs",
+    "spider"
+  ],
+  "author": "willbean",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "phantom": "^3.2.1",
+    "request": "^2.79.0"
+  }
+}
